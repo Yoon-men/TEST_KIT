@@ -1,5 +1,6 @@
 # TEST_KIT
 > All of 'v0 - START UP'
+프로그램 개발 중에 테스트 용도로 만든 것들 중 쓸만한 것들 모음
 ---
 ## Pointer
 ![pointer_0QJgXrfKMv](https://user-images.githubusercontent.com/64591335/144075283-c8086a5f-3851-49b4-9502-1f445efaf4ba.png)
